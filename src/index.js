@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-// import studio from '@theatre/studio'
 import {getProject} from '@theatre/core'
+import state from './state.json'
+
 
 ReactDOM.render(
-  <App project={getProject('First project')}/>,
+  <App project={getProject('First project', {state})}/>,
   document.getElementById('root')
 );
 

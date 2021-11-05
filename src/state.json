@@ -1,0 +1,167 @@
+{
+    "sheetsById": {
+      "Scene": {
+        "staticOverrides": {
+          "byObject": {
+            "0": {
+              "x": 0,
+              "y": 0
+            },
+            "First object": {
+              "bar": true,
+              "top": 5
+            }
+          }
+        },
+        "sequence": {
+          "subUnitsPerUnit": 30,
+          "length": 4.83,
+          "type": "PositionalSequence",
+          "tracksByObject": {
+            "0": {
+              "trackData": {
+                "45EYhyGeB7": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "AkV0hVNGyX",
+                      "position": -0.133,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 147.11090277777777
+                    },
+                    {
+                      "id": "YoNj8_uk71",
+                      "position": 0,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": -139
+                    },
+                    {
+                      "id": "05tkjAqGux",
+                      "position": 3.033,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 176.87186629947672
+                    },
+                    {
+                      "id": "DDLhOLjlAY",
+                      "position": 4.1,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 65
+                    },
+                    {
+                      "id": "X1EzZeS0JV",
+                      "position": 4.733,
+                      "connectedRight": true,
+                      "handles": [
+                        1,
+                        0.7241379310344828,
+                        0.5,
+                        0
+                      ],
+                      "value": 41.65833333333333
+                    }
+                  ]
+                },
+                "4iKhZYlu5c": {
+                  "type": "BasicKeyframedTrack",
+                  "keyframes": [
+                    {
+                      "id": "OdKLbHqL23",
+                      "position": 0,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
+                    },
+                    {
+                      "id": "x30TZ-MImA",
+                      "position": 0.4,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 50
+                    },
+                    {
+                      "id": "t9x3N5KjP9",
+                      "position": 0.633,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 382.94117647058823
+                    },
+                    {
+                      "id": "RKXAlw4JNG",
+                      "position": 2.967,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 63.76214614801421
+                    },
+                    {
+                      "id": "QggMsmG7Yx",
+                      "position": 3.167,
+                      "connectedRight": true,
+                      "handles": [
+                        0.5,
+                        1,
+                        0.5,
+                        0
+                      ],
+                      "value": 0
+                    }
+                  ]
+                }
+              },
+              "trackIdByPropPath": {
+                "[\"x\"]": "45EYhyGeB7",
+                "[\"y\"]": "4iKhZYlu5c"
+              }
+            }
+          }
+        }
+      }
+    },
+    "definitionVersion": "0.4.0",
+    "revisionHistory": [
+      "STUJHDrXKZyCViLK"
+    ]
+  }
